@@ -8,6 +8,7 @@ This manages the federated calendar and event configuration for the [network of 
 The calendar includes the sources from 
 
 - [TH Wildau](https://vinnlab.th-wildau.de/events)
+- [CoderDojo Potsdam](http://coderdojopotsdam.github.io/)
 
 ### Add Sources
 
