@@ -2,6 +2,8 @@
 
 This manages the federated calendar and event configuration for the [network of fab labs in Brandenburg](http://brandenburger-maker.github.io/).
 
+**[Kalender anzeigen/View Calendar][web-link]**
+
 ## Sources
 [sources]: #sources
 
