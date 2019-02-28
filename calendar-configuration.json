@@ -1,6 +1,6 @@
 {
   "url" : [
     "https://vinnlab.th-wildau.de/events.ics",
-    "https://www.maedchentreff-cottbus.de/?plugin=all-in-one-event-calendar&controller=ai1ec_exporter_controller&action=export_events&no_html=true"
+    "http://www.maedchentreff-cottbus.de/?plugin=all-in-one-event-calendar&controller=ai1ec_exporter_controller&action=export_events&no_html=true"
   ]
 }
