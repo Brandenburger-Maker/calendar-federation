@@ -1,7 +1,8 @@
 {
   "url" : [
     "https://vinnlab.th-wildau.de/events.ics",
-    "http://www.maedchentreff-cottbus.de/?plugin=all-in-one-event-calendar&controller=ai1ec_exporter_controller&action=export_events&no_html=true"
+    "http://www.maedchentreff-cottbus.de/?plugin=all-in-one-event-calendar&controller=ai1ec_exporter_controller&action=export_events&no_html=true",
+    "http://blog.fablab-cottbus.de/?plugin=all-in-one-event-calendar&controller=ai1ec_exporter_controller&action=export_events&no_html=true"
   ],
   "css": ".dhx_cal_container, .dhx_cal_header, .dhx_cal_navline, .dhx_scale_bar {background-color: rgb(239, 235, 234);}\n.event, .dhx_cal_tab.active, .dhx_cal_tab.active:hover {background-color: rgb(102, 238, 54);} .dhx_month_head, .dhx_cal_tab, .dhx_cal_today_button {color: rgb(102, 238, 54);} .dhx_cal_tab, .dhx_cal_tab.active {border-color: rgb(102, 238, 54);}\n.dhx_scale_holder_now, .dhx_now .dhx_month_head, .dhx_now .dhx_month_body { background-color: rgb(239, 235, 234);}\n",
   "language": "de"
