@@ -13,6 +13,7 @@ The calendar includes the sources from
 - [Mia](http://www.maedchentreff-cottbus.de/werkstatt/)
 - [FabLab Cottbus](http://blog.fablab-cottbus.de/veranstaltungskalender/)
 - [Offene Werkstatt Spremberg](https://www.owspremberg.de/terminliste/)
+- [CoderDojo Potsdam](http://coderdojopotsdam.github.io/)
 
 ### Add Sources
 
