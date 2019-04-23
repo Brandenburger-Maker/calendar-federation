@@ -11,6 +11,7 @@ The calendar includes the sources from
 
 - [TH Wildau](https://vinnlab.th-wildau.de/events)
 - [Mia](http://www.maedchentreff-cottbus.de/werkstatt/)
+- [machBar Potsdam](http://machbar-potsdam.de/)
 - [FabLab Cottbus](http://blog.fablab-cottbus.de/veranstaltungskalender/)
 - [Offene Werkstatt Spremberg](https://www.owspremberg.de/terminliste/)
 
