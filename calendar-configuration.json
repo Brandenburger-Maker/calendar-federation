@@ -1,5 +1,13 @@
 {
   "url" : [
+    "https://calendar.google.com/calendar/ical/j68lhv614hbv3u4ttbrs6glhpg%40group.calendar.google.com/public/basic.ics",
+    "https://www.meetup.com/biopunx/events/ical/",
+    "https://www.meetup.com/OK-Lab-Potsdam/events/ical/",
+    "https://forum.wilap.de/c/machbar/l/calendar.ics?time_zone=Europe/Berlin",
+    "https://forum.wilap.de/c/kitchen/l/calendar.ics?time_zone=Europe/Berlin",
+    "https://forum.wilap.de/c/repaircafe/l/calendar.ics?time_zone=Europe/Berlin",
+    "https://forum.wilap.de/c/cccp/l/calendar.ics?time_zone=Europe/Berlin",
+
     "https://vinnlab.th-wildau.de/events.ics",
     "http://www.maedchentreff-cottbus.de/?plugin=all-in-one-event-calendar&controller=ai1ec_exporter_controller&action=export_events&no_html=true",
     "http://blog.fablab-cottbus.de/?plugin=all-in-one-event-calendar&controller=ai1ec_exporter_controller&action=export_events&no_html=true",
